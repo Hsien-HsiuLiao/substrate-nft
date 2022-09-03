@@ -1,4 +1,5 @@
 # Substrate !ink NFT simple implementation
+https://www.youtube.com/watch?v=vXj7eR-dIMY
 ***
 This is a simple working version of base NFT smart contract written using latest (as of this date) !ink `3.0.0-rc3`.
 
